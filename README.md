@@ -14,42 +14,34 @@ You should take a spoon full of benadryl after your meal.
 let me know if you are feeling better after having benadryl.
 Good, now take some rest and then let me know if you are feeling better after having benadryl.
 OK, its not just a normal cough, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'   
 You should take a sudafed tablet after your meal.
 let me know if you are feeling better after having sudafed tablet.
 Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
 OK, its not just a normal cold, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:                                                                          
 OK, this is a symptom of cough , do you have cough?
 You should take a spoon full of benadryl after your meal.
 let me know if you are feeling better after having benadryl.
 Good, now take some rest and then let me know if you are feeling better after having benadryl.
 OK, its not just a normal cough, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:' 
 Okay, this is a symptom of cold, do you have cold?
 You should take a sudafed tablet after your meal.
 let me know if you are feeling better after having sudafed tablet.
 Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
 OK, its not just a normal cold, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
 OK, this is a symptom of cough , do you have cough?
 You should take a spoon full of benadryl after your meal.
 let me know if you are feeling better after having benadryl.
 Good, now take some rest and then let me know if you are feeling better after having benadryl.
 OK, its not just a normal cough, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
 sorry, all doctors are occupied at the moment. We will connect you to a doctor soon. Do you want to book an appointment?
 all doctors are attending patients. we shall revert to your request soon. Do you want to book an appointment?
 you shall be called once the doctor is available. Do you want to book an appointment?
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
-appointment details saved. you shall be contacted shortly.
 happy to help!
 OK. can you tell me what's wrong? what are your symptoms?
 This is a symptom of fever, you should take a tablet of crocin after you have your meal.
 let me know if you are feeling better after having crocin.
 Good, now take some rest and then let me know if you are feeling better after having crocin.
 OK, its not just a normal fever, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
 This is a symptom of fever, you should take a tablet of crocin after you have your meal.
 let me know if you are feeling better after having crocin.
 Good, now take some rest and then let me know if you are feeling better after having crocin.
