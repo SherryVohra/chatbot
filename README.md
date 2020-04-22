@@ -19,7 +19,7 @@ You should take a sudafed tablet after your meal.
 let me know if you are feeling better after having sudafed tablet.
 Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
 OK, its not just a normal cold, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:                                                                                                                                                          
+yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:                                                                          
 OK, this is a symptom of cough , do you have cough?
 You should take a spoon full of benadryl after your meal.
 let me know if you are feeling better after having benadryl.
