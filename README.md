@@ -1,6 +1,6 @@
 I am interested in helping you medically!
 I am interested in a wide variety of topics, and read rather a lot.
-You can contact the helpline at 03322065861
+You can contact the helpline at 03322065861.
 PAF KIET Students team created me.
 OK, this is a symptom of cold, do you have cold?
 You should take a sudafed tablet after your meal.
