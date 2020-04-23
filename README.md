@@ -5,16 +5,8 @@ bye. thanks for using our service.
 sorry, all doctors are not available at the moment. We will connect you to a doctor soon.
 I am interested in helping you medically!
 You can contact the helpline at 03322065861.
-OK,your nose is choked,this is a symptom of cold,You should take a sudafed tablet after your meal.
-let me know if you are feeling better after having sudafed tablet.
-Good, now take some rest and then let me know if you are feeling better after having sudafed tablet.
-OK, its not just a normal cold, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'
+OK,your nose is clogged,this is a symptom of cold,You should take a sudafed tablet after your meal.
 OK,you have a cough,You should take a spoon full of benadryl after your meal.
-let me know if you are feeling better after having benadryl.
-Good, now take some rest and then let me know if you are feeling better after having benadryl.
-OK, its not just a normal cough, you should consult a doctor.
-yes please state time and doctor's name in the following format; 'Patient Name:  Date:  Doctor: Hospital:'   
 OK,you have a cold,You should take a sudafed tablet after your meal.
 OK,your chest is aching,this is a symptom of cough,You should take a spoon full of benadryl after your meal.
 OK,your nose is itching,this is a symptom of cold,You should take a sudafed tablet after your meal.
