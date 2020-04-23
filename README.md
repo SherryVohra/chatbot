@@ -5,15 +5,14 @@ bye. thanks for using our service.
 sorry, all doctors are not available at the moment. We will connect you to a doctor soon.
 I am interested in helping you medically!
 You can contact the helpline at 03322065861.
-OK,your nose is clogged,this is a symptom of cold,You should take a sudafed tablet after your meal.
-OK,you have a cough,You should take a spoon full of benadryl after your meal.
-OK,you have a cold,You should take a sudafed tablet after your meal.
+OK,your have muzzle,this is a symptom of cold,You should take a sudafed tablet after your meal.
+OK,you have a croup,you should take a spoon full of benadryl after your meal.
 OK,your chest is aching,this is a symptom of cough,You should take a spoon full of benadryl after your meal.
 OK,your nose is itching,this is a symptom of cold,You should take a sudafed tablet after your meal.
 OK,your throat is itching,this is a symptom of cough,You should take a spoon full of benadryl after your meal.
 OK,you have a migrane headache,symptom noted,Migraines tend to be recurrent, and each attack may last up to 3 days.
 OK,you have a cluster headache,symptom noted,Attacks tend to occur in daily clusters that can persist for weeks or months,They typically take place at the same time of day, which can often be a couple of hours after falling asleep at night. 
-OK,you have a tension headache,symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers.
+OK,you have a tension headache,symptom noted,the cause of tension headaches is unclear,but stress,anxiety,and depression are common triggers.
 OK,your body temperature has raised,This is a symptom of fever, you should take a tablet of crocin after you have your meal.
 OK,you are shivering, This is a symptom of fever, you should take a tablet of crocin after you have your meal.
 OK,you are feeling weak,This is a symptom of fever, you should take a tablet of crocin after you have your meal.
